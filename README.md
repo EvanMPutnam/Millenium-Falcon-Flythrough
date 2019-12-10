@@ -19,3 +19,9 @@ The other important script is that of ParticleCSV which parses a csv and plots s
 - Tilting of Spacecraft
 - Fine tuning of Flying
 
+
+## Example Images
+![Test Image 1](example_1.jpg)
+Here is an image of the main camera
+![Test Image 1](example_2.jpg)
+Here is an image of the cockpit view
